@@ -1,0 +1,46 @@
+package model;
+
+public class ComputerScienceStudent extends Student{
+
+	private int java;
+	private int network;
+	private int linux;
+	
+	
+	public ComputerScienceStudent(String name, int kor, int eng, int mat, int java, int network, int linux) {
+		super(name, kor, eng, mat);
+		this.java = java;
+		this.network = network;
+		this.linux = linux;
+		
+	}
+
+
+	@Override
+	public int getSum() {
+		 sum = kor + eng + mat + java + network + linux;
+		 return sum;
+	}
+
+
+	@Override
+	public double getAvg() {
+		avg = sum / 6.0;
+		return 0;
+	}
+
+
+	@Override
+	public void getInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+	@Override
+	public void getDetail() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

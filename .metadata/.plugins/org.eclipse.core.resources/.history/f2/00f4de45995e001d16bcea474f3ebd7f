@@ -1,0 +1,51 @@
+package management;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import model.Student;
+
+public class Handler {
+	
+	private List<Student> list = new ArrayList<Student>();
+
+	public void showList() {
+		for(Student s : list) {
+			System.out.println(s);
+		}
+	}
+
+//	public int insert(Student st) {
+//		for(int i = 0; i < arr.length; i++) {
+//			if(arr[i] == null) {
+//				arr[i] = st;
+//				return 1;
+//			}
+//		}
+//		return 0;
+//	}
+//
+//	public Student find(String name) {
+//		for(int i = 0; i < arr.length; i++) {
+//			if(arr[i] != null && arr[i].getName().equals(name)) {
+//				return arr[i];				
+//			}
+//		}
+//		return null;
+//	}
+//
+//	public int delete(Student st) {
+//		for(int i = 0; i < arr.length; i++) {
+//			if(arr[i] != null && arr[i] == st) {
+//				arr[i] = null;
+//				return 1;				
+//			}
+//		}
+//		return 0;
+//	}
+	
+	// 추가
+	// 목록
+	// 삭제
+	// 검색
+}

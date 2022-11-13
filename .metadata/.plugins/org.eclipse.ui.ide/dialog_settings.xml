@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\workspace\day21"/>
+			<item value="C:\Users\admin\Downloads\day21"/>
+			<item value=""/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\baekJoonTest\day04"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\admin\Downloads\day21.zip"/>
+			<item value="C:\Users\admin\Downloads\day20.zip"/>
+			<item value="C:\Users\admin\Downloads\day19.zip"/>
+			<item value="C:\Users\admin\Downloads\day18.zip"/>
+			<item value="C:\Users\admin\Downloads\day17.zip"/>
+			<item value="C:\Users\admin\Downloads\6_day16_객체지향코드작성시참조.txt_221102\day16.zip"/>
+			<item value="C:\Users\admin\Downloads\day15.zip"/>
+			<item value="C:\Users\admin\Downloads\day14.zip"/>
+			<item value="C:\Users\admin\Downloads\day13.zip"/>
+			<item value="C:\Users\admin\Downloads\day12.zip"/>
+			<item value="C:\Users\admin\Downloads\day11.zip"/>
+			<item value="C:\Users\admin\Downloads\day10.zip"/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\day09.zip"/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\quiz.zip"/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\day08.zip"/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\day07.zip"/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\day06.zip"/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\day05.zip"/>
+			<item value="C:\Users\admin\Desktop\취업\취업반수업\day03.zip"/>
+			<item value="C:\Users\admin\Desktop\취업반수업\day02.zip"/>
+		</list>
+	</section>
+</section>

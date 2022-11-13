@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;ageCentury&apos; in &apos;day05.Quiz4.profile(...)&apos; to &apos;centuryCalc&apos;&#x0D;&#x0A;- Original project: &apos;day05&apos;&#x0D;&#x0A;- Original element: &apos;day05.Quiz4.profile(long).ageCentury&apos;&#x0D;&#x0A;- Renamed element: &apos;ageCentury&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;ageCentury&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;day05{Quiz4.java[Quiz4~profile~J@ageCentury!411!442!415!424!I!0!false" name="centuryCalc" references="true" stamp="1665905411672" version="1.0"/>
+</session>

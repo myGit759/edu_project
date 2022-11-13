@@ -1,0 +1,36 @@
+package model;
+
+public class EnglishLinguisticStudent  extends Student{
+
+	private int literature;		// 문학 (영문학)
+	private int translation;
+	public EnglishLinguisticStudent(String name, int kor, int eng, int mat) {
+		super(name, kor, eng, mat);
+		
+	}
+
+	@Override
+	public int getSum() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public double getAvg() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public void showInfo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void showDetail() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
