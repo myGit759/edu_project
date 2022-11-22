@@ -1,0 +1,22 @@
+visual studio code 다운로드 및 기본 옵션으로 설치
+
+1) File - Preferences - Settings - 
+	검색 : zoom - mouse wheel zoom 체크
+	검색 : asso - Files Associations
+		Add Item
+		*.html : html
+	검색 : theme - 원하는 색상 테마 선택
+
+2) 왼쪽 아이콘 모음 extensions
+	korean
+	open in browser (TechER)
+	live server (Ritwick Dey)
+
+3) 작업을 수행할 폴더를 생성하여 열기
+    (이클립스의 workspace와 비슷함)
+    폴더의 작성자를 신뢰하시겠습니까? yes
+
+4) File - 자동저장
+
+hyper text transfer protocol
+	
