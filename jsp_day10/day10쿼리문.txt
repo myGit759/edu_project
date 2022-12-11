@@ -1,0 +1,71 @@
+create table student1(
+    name    varchar(100),
+    kor     number,
+    eng     number,
+    mat     number
+);
+
+insert into student1 values(
+    '조규성', 78, 87, 85
+);
+insert into student1 values(
+    '손흥민', 99, 95, 88
+);
+insert into student1 values(
+    '김진수', 77, 65, 73
+);
+
+select * from student1;
+select name from student1;
+select name, kor from student1;
+
+create table member1 (
+    name 	varchar2(100),
+    age 	number,
+    phoneNumber	varchar2(100)
+);
+
+select * from member1;
+
+insert into member1 values (
+    '이지은', 30, '010-1234-1234'
+);
+insert into member1 values (
+    '이강인', 21, '010-1313-3434'
+);
+
+
+select * from tab;
+desc student1;
+
+commit;
+---------------------------------------------
+
+create table product (
+ 		idx		number,
+ 		name	varchar2(100),
+ 		price	number,
+ 		imgPath	varchar2(100)
+ 		); 
+        
+select * from product;
+
+insert into product values(1, '집업 니트 실버', 54900, '1.jpg');
+insert into product values(2, '카디건 브라운', 44900, '2.jpg');
+insert into product values(3, '블랙 폴라', 32900, '3.jpg');
+insert into product values(4, '[무신사 단독] 유아인 니트', 29900, '4.jpg');
+insert into product values(5, '패턴 무늬 니트', 44900, '5.jpg');
+
+commit;
+
+--------------------------------------------------------------------
+-- 원하는 조건의 데이터만 출력하기 --
+
+select * from product where idx = 3;
+select * from product where price >= 40000;
+select * from product where 1=1; -- true를 나타낼때 표현하는 법
+select * from product where 20000 <= price and price <= 30000;
+select * from product where price between 29900 and 40000;
+select * from product where name like '%니트%'; -- == * 길이에 상관없는 모든 글자
+select * from product where price like '__900';
+
